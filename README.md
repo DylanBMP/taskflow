@@ -1,10 +1,11 @@
 # TaskFlow
 
 ## Badges(Medallas)
-[![GitHub last commit](https://img.shields.io/github/last-commit/usuario/taskflow)](https://github.com/usuario/taskflow/commits)
-[![GitHub issues](https://img.shields.io/github/issues/usuario/taskflow)](https://github.com/usuario/taskflow/issues)
-[![GitHub stars](https://img.shields.io/github/stars/usuario/taskflow)](https://github.com/usuario/taskflow/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+## Badges (Medallas)
+[![GitHub last commit](https://img.shields.io/github/last-commit/DylanBMP/taskflow)](https://github.com/DylanBMP/taskflow/commits)
+[![GitHub issues](https://img.shields.io/github/issues/DylanBMP/taskflow)](https://github.com/DylanBMP/taskflow/issues)
+[![GitHub stars](https://img.shields.io/github/stars/DylanBMP/taskflow)](https://github.com/DylanBMP/taskflow/stargazers)
+[![License](https://img.shields.io/github/license/DylanBMP/taskflow)](LICENSE)
 
 > Aplicación web colaborativa y sencilla para administrar y optimizar las tareas de tu equipo de trabajo.
 
